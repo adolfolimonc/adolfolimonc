@@ -1,4 +1,4 @@
-## adolfolimonc🍋
+## 🍋 adolfolimonc
 
 **`graphic-designer && web-dev = true`**
 
@@ -14,7 +14,7 @@ Well, that's me. Please have a look at my humble project (I'll get better, I pro
 
 ---
 
-### Languages and Tool 🔨
+### 🔨 Languages and Tool 
 
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="reactjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -38,7 +38,7 @@ Well, that's me. Please have a look at my humble project (I'll get better, I pro
 ![adolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfolimonc&show_icons=true&theme=gruvbox)
 
 ---
-### Social media
+### 🤳 Social media
 <p align="left">
   <a href="https://www.linkedin.com/in/adolfolimonc/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-2--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
