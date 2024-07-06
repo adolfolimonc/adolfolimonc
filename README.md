@@ -40,11 +40,11 @@ Well, that's me. Please have a look at my humble project (I'll get better, I pro
 ---
 ### 🤳 Social media
 <p align="left">
-  <a href="https://www.linkedin.com/in/adolfolimonc/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-2--v1.png"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/adolfolimonc/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/linkedin-2--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/adolfolimonc" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.icons8.com/ios-filled/50/FFFFFF/discord-logo.png"/></a>
+  <a target="_blank" href="https://discord.gg/adolfolimonc" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.icons8.com/ios-filled/50/FFFFFF/discord-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.instagram.com/adolfoisnotsad/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.icons8.com/material-outlined/24/FFFFFF/instagram-new--v1.png"/></a>
+   <a target="_blank" href="https://www.instagram.com/adolfoisnotsad/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.icons8.com/material-outlined/24/FFFFFF/instagram-new--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
