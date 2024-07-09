@@ -2,7 +2,7 @@
 
 **`graphic-designer && web-dev = true`**
 
-Designer and Web Developer who loves music, coding and beautiful, gloomy stuff. I'm currently working on the project that's going to make filthily rich or make me back to Harvard (insert Seinfeld music). I try to code as often as I can, and I hope one day I can make a living out of it. Besides having well-designed software, I try to make it look beautiful (and gloomy, if possible). I'm constantly learning about new stuff, and my goal is to become an AI expert. I want to focus on machine consciousness, which sounds creepy, and it is.
+Graphic Designer and Web Developer who loves music, coding and beautiful, gloomy stuff. I'm currently working on the project that's going to make filthily rich or make me back to Harvard (insert Seinfeld music). I try to code as often as I can, and I hope one day I can make a living out of it. Besides having well-designed software, I try to make it look beautiful (and gloomy, if possible). I'm constantly learning about new stuff, and my goal is to become an AI expert. I want to focus on machine consciousness, which sounds creepy, and it is.
 Well, that's me. Please have a look at my humble projects (I'll get better, I promise!); any feedback from experienced developers would be greatly appreciated.
 
 <p align="left">
