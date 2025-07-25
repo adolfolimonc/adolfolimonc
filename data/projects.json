@@ -1,0 +1,35 @@
+[
+  {
+    "id": "nike-brand-identity",
+    "title": "Nike",
+    "subTitle": "Brand Identity",
+    "thumbnail": "/assets/imgs/works/2/01.png",
+    "thumbnail_home": "/assets/imgs/works/1/01.png",
+    "category": "branding",
+    "tags": ["branding", "logo-design"],
+    "slug": "nike-brand-identity",
+    "selected": true
+  },
+  {
+    "id": "spotify-web-app",
+    "title": "Spotify",
+    "subTitle": "Web App",
+    "thumbnail": "/assets/imgs/works/2/02.png",
+    "thumbnail_home": "/assets/imgs/works/1/02.png",
+    "category": "development",
+    "tags": ["web-development", "react"],
+    "slug": "spotify-web-app",
+    "selected": false
+  },
+  {
+    "id": "coca-cola-social",
+    "title": "Coca-Cola",
+    "subTitle": "Social Campaign",
+    "thumbnail": "/assets/imgs/works/2/03.png",
+    "thumbnail_home": "/assets/imgs/works/1/03.png",
+    "category": "marketing",
+    "tags": ["social-media", "campaign"],
+    "slug": "coca-cola-social",
+    "selected": true
+  }
+] 

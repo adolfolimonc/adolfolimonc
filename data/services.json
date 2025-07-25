@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Brand Strategy",
+    "img": "/assets/imgs/serv-icons/branding.svg",
+    "desc": "Listening deeply to build brands your people love.",
+    "link": "/page-services-details"
+  },
+  {
+    "title": "UX/UI Design",
+    "img": "/assets/imgs/serv-icons/uxui.svg",
+    "desc": "Designing interfaces that serve, guide, and connect.",
+    "link": "/page-services-details"
+  },
+  {
+    "title": "Web & App Development",
+    "img": "/assets/imgs/serv-icons/code.svg",
+    "desc": "Crafting seamless sites from vision to final line of code.",
+    "link": "/page-services-details"
+  },
+  {
+    "title": "Content marketing",
+    "img": "/assets/imgs/serv-icons/social.svg",
+    "desc": "Creating scroll-stopping visuals that move with purpose.",
+    "link": "/page-services-details"
+  }
+]
