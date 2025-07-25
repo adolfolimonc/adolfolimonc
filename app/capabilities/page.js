@@ -8,10 +8,10 @@ import Marq2 from "@/components/common/Marq2";
 import Navbar from "@/components/common/Navbar";
 import Script from "next/script";
 import Clients from "@/components/common/Clients";
-import Services from "@/components/home-digital-agency/Services";
+import Services from "@/components/home/Services";
 import Intro2 from "@/components/home/Intro2";
-import Testimonials from "@/components/home-digital-agency/Testimonials";
-import Blog from "@/components/home-digital-agency/Blog";
+import Testimonials from "@/components/home/Testimonials";
+import Blog from "@/components/home/Blog";
 import Header from "@/components/capabilties/Header";
 import Numbers from "@/components/capabilties/Numbers";
 
