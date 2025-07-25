@@ -4,8 +4,7 @@ Welcome to my personal portfolio! This site showcases my work in graphic design,
 
 ## 🚀 Live Demo
 
-[View the live site](https://your-deployed-site-url.com)
-*(Replace with your actual URL)*
+*Coming soon!*
 
 ---
 
@@ -24,7 +23,7 @@ Welcome to my personal portfolio! This site showcases my work in graphic design,
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/) (or custom CSS)
+- [Bootstrap](https://getbootstrap.com/)
 - [Vercel](https://vercel.com/) for deployment
 
 ---
@@ -71,6 +70,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Contact
 
-- [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- [Your Email](mailto:your@email.com)
+- [Your LinkedIn](https://linkedin.com/in/adolfolimonc)
+- [Your Email](mailto:adolfolimonc@gmail.com)
 - [Your Website](https://yourwebsite.com)
