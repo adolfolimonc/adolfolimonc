@@ -1,4 +1,6 @@
 import './globals.css';
+import '../public/assets/css/plugins.css';
+import '../public/assets/css/style.css';
 
 export default function RootLayout({ children }) {
   return (
@@ -6,8 +8,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="stylesheet" href="/assets/css/plugins.css" />
-        <link rel="stylesheet" href="/assets/css/style.css" />
+        {/* Removed manual <link rel="stylesheet" ... /> tags */}
       </head>
       <body>
         {children}

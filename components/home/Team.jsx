@@ -10,7 +10,7 @@ function Team() {
               <span className="sub-title main-color mb-5">About me</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Who's behind <span className="fw-200">this?</span>
+                  Who&apos;s behind <span className="fw-200">this?</span>
                 </span>
               </h3>
             </div>

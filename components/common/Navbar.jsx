@@ -144,7 +144,7 @@ function Navbar() {
             href="/contact"
             className="butn butn-sm butn-bg main-colorbg radius-5"
           >
-            <span className="text">Let's build!</span>
+            <span className="text">Let&apos;s build!</span>
           </a>
         </div>
       </div>

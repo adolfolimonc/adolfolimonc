@@ -29,7 +29,7 @@ function Header() {
           <div className="col-12">
             <div className="text-center">
               <h1 className="text-u ls1 fz-80">
-                Let's <span className="fw-200"> Build!</span>
+                Let&apos;s <span className="fw-200"> Build!</span>
               </h1>
             </div>
           </div>

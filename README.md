@@ -4,6 +4,7 @@ Welcome to my personal portfolio! This site showcases my work in graphic design,
 
 ## 🚀 Live Demo
 
+[View the live site](https://your-deployed-site-url.com)
 *Coming soon!*
 
 ---
